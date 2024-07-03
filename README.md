@@ -1,2 +1,2 @@
-# Web-Scraping
-Scraping covid-19 statistics
+# web_scraping
+Scraping statistics
